@@ -12,7 +12,7 @@
   "onboardingPrTitle": "build(renovate): Renovate Onboarding PR 🤖",
   "onboardingBranch": "renovate-configure",
   "rebaseWhen": "auto",
-  "prCreation": "not-pending",
+  "prCreation": "immediate",
   "commitMessageTopic": "{{depName}}",
   "commitMessageExtra": "to {{newVersion}}",
   "commitMessageSuffix": "",
